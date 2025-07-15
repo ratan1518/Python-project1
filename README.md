@@ -15,3 +15,10 @@ A Python Expense Tracker app built with Tkinter and ttkbootstrap, helping you ma
 
 6.Export and import expenses as CSV
 
+![image alt](https://github.com/ratan1518/Python-project1/blob/fb93bb8748dbd6cf9932eb148563519d45911097/dark%20mode.png)
+
+![image alt](https://github.com/ratan1518/Python-project1/blob/fb93bb8748dbd6cf9932eb148563519d45911097/expense%20added.png)
+
+![image alt](https://github.com/ratan1518/Python-project1/blob/fb93bb8748dbd6cf9932eb148563519d45911097/main%20page.png)
+
+![image alt](https://github.com/ratan1518/Python-project1/blob/fb93bb8748dbd6cf9932eb148563519d45911097/visualization.png)
